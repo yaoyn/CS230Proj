@@ -1,4 +1,4 @@
-# get_ipython().run_line_magic('matplotlib', 'inline')
+# Adapted from: https://www.kaggle.com/sid321axn/step-wise-approach-cnn-model-77-0344-accuracy
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
